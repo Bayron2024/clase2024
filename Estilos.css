@@ -1,0 +1,29 @@
+ body {
+    background-color:rgb(255, 0, 0);
+}
+h1 {
+   text-aling: justify;
+   color: rgb(0, 4, 128);
+   font-family: arial;
+   font-size: 300%;
+}
+p  {
+    color: rgb(0, 255, 238);
+    font-family: Comic Sans MS;
+    text-aling: justify;
+    font-size: 100%;
+}
+Text{
+      text-aling: justify;
+      color: black;
+      font-family: courier;
+      font-size: 200%;
+}
+a  {
+    color: violet;
+    font-family: Comic Sans MS;
+    text-aling: justify;
+    font-size: 100%;
+
+
+    
